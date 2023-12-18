@@ -6,7 +6,7 @@
 // o -> orange
 // y -> yellow
 // corners color are coded clockwise
-$cube = array(
+$solved_cube = array(
     "U" => array(
         "center" => "w",
         "UBL" => "wob",

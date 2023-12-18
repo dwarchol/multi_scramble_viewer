@@ -3,7 +3,7 @@ function drawUSide($cube)
 {
   echo "
     <div class = layer>
-    <table>
+    <table class='cube'>
       <tbody>
         <tr>
           <td class=" . $cube['U']['UBL'][0] . ">
